@@ -1,4 +1,4 @@
-# Delani Studio
+# Cheesy Doughmain
 
 [Check it out](https://ernestmucheru.github.io/delani/)
 ## Description.
