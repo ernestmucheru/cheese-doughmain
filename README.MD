@@ -1,6 +1,6 @@
 # Cheesy Doughmain
 
-[Check it out](https://ernestmucheru.github.io/delani/)
+[Check it out](https://ernestmucheru.github.io/cheese-doughmain/)
 ## Description.
 Cheesey Doughmain is webportal to be used to help in the ordering and delivery of Pizza.
 
@@ -11,7 +11,7 @@ Ernest Mucheru
 ## Setup.
 To get a local copy of the site:
 
-`git clone https://github.com/ernestmucheru/delani.git`
+`git clone https://github.com/ernestmucheru/cheese-doughmain.git
 
 `Extract` the cloned file.
 
